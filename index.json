@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "ips",
+      "name": "IPS Inspired v2.1",
+      "description": "Tema în stil IPS 4/5 pentru Forumotion.",
+      "path": "themes/ips",
+      "manifest": "themes/ips/manifest.json",
+      "screenshot": "themes/ips/screenshot.svg",
+      "tags": ["modern", "ips", "light"],
+      "minEngine": "Invision",
+      "author": "Staark",
+      "version": "1.0.3",
+      "downloads": 0,
+      "lastUpdate": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "xenforo-like",
+      "name": "XenForo-like",
+      "description": "Layout similar XenForo cu forum list clasic.",
+      "path": "themes/xenforo-like",
+      "manifest": "themes/xenforo-like/manifest.json",
+      "screenshot": "themes/xenforo-like/screenshot.svg",
+      "tags": ["xenforo", "classic"],
+      "minEngine": "phpBB3",
+      "author": "Staark",
+      "version": "1.0.0",
+      "downloads": 0,
+      "lastUpdate": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "minimal-dark",
+      "name": "Minimal Dark",
+      "description": "Temă întunecată, simplă, pentru forumuri mici.",
+      "path": "themes/minimal-dark/",
+      "manifest": "themes/minimal-dark/manifest.json",
+      "screenshot": "themes/minimal-dark/screenshot.svg",
+      "tags": ["dark", "minimal"],
+      "minEngine": "phpBB3",
+      "author": "Staark",
+      "version": "1.0.0",
+      "downloads": 0,
+      "lastUpdate": "2025-01-01T00:00:00Z"
+    }
+  ]
+}
