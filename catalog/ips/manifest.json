@@ -21,79 +21,79 @@
         "label": "Antetul forumului [overall_header]",
         "file": "templates/overall_header.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "133",
         "label": "Partea finala a subsolului forumului [overall_footer_end]",
         "file": "templates/overall_footer_end.html",
         "category": "main",
-        "mode": "replace" 
+        "mode": "edit_main" 
       }, {
         "id": "115",
         "label": "Prima parte a subsolului forumului [overall_footer_begin]",
         "file": "templates/overall_footer_begin.html",
         "category": "main",
-        "mode": "replace" 
+        "mode": "edit_main" 
       }, {
         "id": "110",
         "label": "Pagina de start [index_body]",
         "file": "templates/index_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "111",
         "label": "Pagina de start - afisarea categoriilor [index_box]",
         "file": "templates/index_box.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "113",
         "label": "Lista de membrii [memberlist_body]",
         "file": "templates/memberlist_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "114",
         "label": "Mesaj de eroare de executie [message_body]",
         "file": "templates/message_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "118",
         "label": "Pagina de cautare [search_body]",
         "file": "templates/search_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "127",
         "label": "Afisarea unui subiect [viewtopic_body]",
         "file": "templates/viewtopic_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "125",
         "label": "Afisarea unui forum [viewforum_body]",
         "file": "templates/viewforum_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "130",
         "label": "Pagina de start - afisarea subiectelor în stil blog [topics_blog_box]",
         "file": "templates/topics_blog_box.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "131",
         "label": "Pagina de vizualizare a comentariilor [viewcomments_body]",
         "file": "templates/viewcomments_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }, {
         "id": "126",
         "label": "Pagina de vizualizare a membrilor online [viewonline_body]",
         "file": "templates/viewonline_body.html",
         "category": "main",
-        "mode": "replace"
+        "mode": "edit_main"
       }
     ],
     "js":        [{ "id": "main",   "file": "js/main.js" }],
