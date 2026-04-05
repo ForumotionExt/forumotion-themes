@@ -18,80 +18,80 @@
     "templates": [
       {
         "id": "overall_header",
-        "label": "Overall Header",
+        "label": "Antetul forumului [overall_header]",
         "file": "templates/overall_header.html",
         "category": "main",
         "mode": "replace"
       }, {
         "id": "overall_footer_end",
-        "label": "Overall Footer End",
+        "label": "Partea finala a subsolului forumului [overall_footer_end]",
         "file": "templates/overall_footer_end.html",
         "category": "main",
         "mode": "replace" 
       }, {
         "id": "overall_footer_begin",
-        "label": "Overall Footer Begin",
+        "label": "Prima parte a subsolului forumului [overall_footer_begin]",
         "file": "templates/overall_footer_begin.html",
         "category": "main",
         "mode": "replace" 
       }, {
         "id": "index_body",
-        "label": "Pagina de start",
+        "label": "Pagina de start [index_body]",
         "file": "templates/index_body.html",
         "category": "main",
         "mode": "replace"
       }, {
         "id": "index_box",
-        "label": "Pagina de start - afisarea categoriilor și forumurilor",
+        "label": "Pagina de start - afisarea categoriilor [index_box]",
         "file": "templates/index_box.html",
         "category": "main",
         "mode": "replace"
       }, {
+        "id": "memberlist_body",
+        "label": "Lista de membrii [memberlist_body]",
+        "file": "templates/memberlist_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "message_body",
+        "label": "Mesaj de eroare de executie [message_body]",
+        "file": "templates/message_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "search_body",
+        "label": "Pagina de cautare [search_body]",
+        "file": "templates/search_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
         "id": "viewtopic_body",
-        "label": "Pagina de vizualizare a subiectului",
+        "label": "Afisarea unui subiect [viewtopic_body]",
         "file": "templates/viewtopic_body.html",
         "category": "main",
         "mode": "replace"
       }, {
         "id": "viewforum_body",
-        "label": "Pagina de vizualizare a forumului",
+        "label": "Afisarea unui forum [viewforum_body]",
         "file": "templates/viewforum_body.html",
         "category": "main",
         "mode": "replace"
       }, {
-        "id": "memberlist_body",
-        "label": "Pagina de vizualizare a listei de membri",
-        "file": "templates/memberlist_body.html",
-        "category": "main",
-        "mode": "replace"
-      }, {
-        "id": "search_body",
-        "label": "Pagina de căutare",
-        "file": "templates/search_body.html",
-        "category": "main",
-        "mode": "replace"
-      }, {
         "id": "topics_blog_box",
-        "label": "Pagina de start - afisarea subiectelor în stil blog",
+        "label": "Pagina de start - afisarea subiectelor în stil blog [topics_blog_box]",
         "file": "templates/topics_blog_box.html",
         "category": "main",
         "mode": "replace"
       }, {
         "id": "viewcomments_body",
-        "label": "Pagina de vizualizare a comentariilor",
+        "label": "Pagina de vizualizare a comentariilor [viewcomments_body]",
         "file": "templates/viewcomments_body.html",
         "category": "main",
         "mode": "replace"
       }, {
         "id": "viewonline_body",
-        "label": "Pagina de vizualizare a membrilor online",
+        "label": "Pagina de vizualizare a membrilor online [viewonline_body]",
         "file": "templates/viewonline_body.html",
-        "category": "main",
-        "mode": "replace"
-      }, {
-        "id": "search_body",
-        "label": "Pagina de căutare",
-        "file": "templates/search_body.html",
         "category": "main",
         "mode": "replace"
       }
