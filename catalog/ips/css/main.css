@@ -1,0 +1,47 @@
+/* IPS Inspired v2.1 — Forumotion Admin Theme */
+  :root {
+    --ips-blue: #2d7dd2;
+    --ips-bg: #f5f5f5;
+    --ips-sidebar: #1c2534;
+    --ips-sidebar-text: #c8d3e0;
+    --ips-card: #ffffff;
+    --ips-border: #dde3ec;
+  }
+
+  body { background: var(--ips-bg); font-family: 'Segoe UI', Arial, sans-serif; }
+
+  #admin-menu, #navigation, .navbar, .nav-sidebar {
+    background: var(--ips-sidebar) !important;
+    color: var(--ips-sidebar-text) !important;
+  }
+
+  #admin-menu a, .nav-sidebar a {
+    color: var(--ips-sidebar-text) !important;
+  }
+
+  #admin-menu a:hover, .nav-sidebar a:hover {
+    background: rgba(255,255,255,0.08) !important;
+    color: #fff !important;
+  }
+
+  .panel_menu, .pannel, fieldset, .block {
+    background: var(--ips-card) !important;
+    border: 1px solid var(--ips-border) !important;
+    border-radius: 6px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06) !important;
+  }
+
+  input[type="submit"], input[type="button"], .button {
+    background: var(--ips-blue) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 4px !important;
+    padding: 6px 14px !important;
+    cursor: pointer !important;
+  }
+
+  input[type="submit"]:hover, input[type="button"]:hover {
+    background: #1a5fa3 !important;
+  }
+
+  h2, h3 { color: #1c2534 !important; }
