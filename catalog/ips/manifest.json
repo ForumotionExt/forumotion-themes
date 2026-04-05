@@ -82,6 +82,18 @@
         "file": "templates/viewcomments_body.html",
         "category": "main",
         "mode": "replace"
+      }, {
+        "id": "viewonline_body",
+        "label": "Pagina de vizualizare a membrilor online",
+        "file": "templates/viewonline_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "search_body",
+        "label": "Pagina de căutare",
+        "file": "templates/search_body.html",
+        "category": "main",
+        "mode": "replace"
       }
     ],
     "js":        [{ "id": "main",   "file": "js/main.js" }],
