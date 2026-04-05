@@ -28,6 +28,60 @@
         "file": "templates/overall_footer_end.html",
         "category": "main",
         "mode": "replace" 
+      }, {
+        "id": "overall_footer_begin",
+        "label": "Overall Footer Begin",
+        "file": "templates/overall_footer_begin.html",
+        "category": "main",
+        "mode": "replace" 
+      }, {
+        "id": "index_body",
+        "label": "Pagina de start",
+        "file": "templates/index_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "index_box",
+        "label": "Pagina de start - afisarea categoriilor și forumurilor",
+        "file": "templates/index_box.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "viewtopic_body",
+        "label": "Pagina de vizualizare a subiectului",
+        "file": "templates/viewtopic_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "viewforum_body",
+        "label": "Pagina de vizualizare a forumului",
+        "file": "templates/viewforum_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "memberlist_body",
+        "label": "Pagina de vizualizare a listei de membri",
+        "file": "templates/memberlist_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "search_body",
+        "label": "Pagina de căutare",
+        "file": "templates/search_body.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "topics_blog_box",
+        "label": "Pagina de start - afisarea subiectelor în stil blog",
+        "file": "templates/topics_blog_box.html",
+        "category": "main",
+        "mode": "replace"
+      }, {
+        "id": "viewcomments_body",
+        "label": "Pagina de vizualizare a comentariilor",
+        "file": "templates/viewcomments_body.html",
+        "category": "main",
+        "mode": "replace"
       }
     ],
     "js":        [{ "id": "main",   "file": "js/main.js" }],
