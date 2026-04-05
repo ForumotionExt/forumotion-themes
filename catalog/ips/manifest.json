@@ -20,7 +20,7 @@
         "id": "overall_header",
         "label": "Overall Header",
         "file": "templates/overall_header.html",
-        "category": "general",
+        "category": "main",
         "mode": "replace"
       }, {
         "id": "overall_footer_end",
