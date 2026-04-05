@@ -1,0 +1,36 @@
+/* XenForo-like — Forumotion Admin Theme */
+  :root {
+    --xf-blue: #1877f2;
+    --xf-bg: #f0f0f0;
+    --xf-header: #242424;
+    --xf-card: #fff;
+    --xf-border: #c9c9c9;
+  }
+
+  body { background: var(--xf-bg); font-family: Arial, sans-serif; font-size: 13px; }
+
+  #admin-menu, .navbar, #navigation {
+    background: var(--xf-header) !important;
+  }
+
+  #admin-menu a, #navigation a {
+    color: #d0d0d0 !important;
+  }
+
+  #admin-menu a:hover { color: #fff !important; }
+
+  .panel_menu, .pannel, fieldset {
+    background: var(--xf-card) !important;
+    border: 1px solid var(--xf-border) !important;
+    border-radius: 3px !important;
+  }
+
+  input[type="submit"], input[type="button"] {
+    background: var(--xf-blue) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 3px !important;
+    padding: 5px 12px !important;
+  }
+
+  h2 { border-bottom: 2px solid var(--xf-blue) !important; padding-bottom: 4px !important; }
