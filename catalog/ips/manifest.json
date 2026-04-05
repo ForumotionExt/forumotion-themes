@@ -1,4 +1,11 @@
 {
+  "id": "ips",
+  "name": "IPS Inspired",
+  "version": "1.0.3",
+  "author": "Staark",
+  "description": "IPS Inspired v2.1 este o temă de forum premium, concepută pentru a oferi vizitatorilor și membrilor Forumotion o experiență de navigare modernă, intuitivă și rapidă. Oferă o estetică de ultimă generație și o structură optimizată, fiind în același timp complet transparentă în ceea ce privește confidențialitatea datelor utilizatorilor.",
+  "tags": ["modern", "ips", "light"],
+  "minEngine": "Invision",
   "files": {
     "css": [
       {
@@ -7,6 +14,27 @@
         "file": "css/main.css",
         "target": "global_stylesheet"
       }
-    ]
-  }
+    ],
+    "templates": [
+      {
+        "id": "overall_header",
+        "label": "Overall Header",
+        "file": "templates/overall_header.html",
+        "category": "general",
+        "mode": "replace"
+      }, {
+        "id": "overall_footer_end",
+        "label": "Overall Footer End",
+        "file": "templates/overall_footer_end.html",
+        "category": "main",
+        "mode": "replace" 
+      }
+    ],
+    "js":        [{ "id": "main",   "file": "js/main.js" }],
+    "plugins":   [{ "id": "p1",     "file": "plugins/main.js" }],
+    "preview":   { "screenshot": "preview/screenshot.png", "patchJs": "preview/preview.js" }
+  },
+  "variables": [
+    { "id": "primary-color", "label": "Culoare principala", "default": "#2d7dd2", "type": "color" }
+  ]
 }
